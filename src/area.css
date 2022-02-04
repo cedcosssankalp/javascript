@@ -1,0 +1,29 @@
+body
+{
+background-color: gray;
+text-align:center;
+}
+.header
+{
+font-weight: bold;
+font-size : 40px;
+padding-bottom: 25px;
+
+}
+.ibox {
+width: 200px;
+background-color: white;
+margin-left: 20px;
+}
+.lblArea
+{
+    color: blue;
+font-weight:bold;
+font-size :20px;
+}
+.lblPerimeter
+{
+color: blue;
+font-weight:bold;
+font-size :20px;
+}
